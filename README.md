@@ -1,12 +1,12 @@
 # RAG Saturation & Hallucination Analysis
 
-\> Final Assignment — Kapita Selekta Sistem Cerdas
+> Final Assignment — Kapita Selekta Sistem Cerdas
 
-\## Deskripsi
+## Deskripsi
 
 Proyek ini menganalisis fenomena \*\*saturasi performa\*\* dan \*\*halusinasi sitasi\*\* pada sistem Retrieval-Augmented Generation (RAG) dengan memvariasikan jumlah dokumen konteks (Top-K retrieval).
 
-\## Anggota Tim
+## Anggota Tim
 
 | Nama | NIM | Peran |
 |------|-----|-------|
@@ -14,7 +14,7 @@ Proyek ini menganalisis fenomena \*\*saturasi performa\*\* dan \*\*halusinasi si
 | [Nama Member 2] | [NIM] | Generation & Prompting |
 | [Nama Member 3] | [NIM] | Evaluation & Analysis |
 
-\## Komponen Sistem
+## Komponen Sistem
 
 | Komponen | Detail |
 |----------|--------|
@@ -24,17 +24,14 @@ Proyek ini menganalisis fenomena \*\*saturasi performa\*\* dan \*\*halusinasi si
 | Generator (LLM) | TBD |
 | Nilai K yang diuji | 1, 3, 5, 10 |
 
-\## Metrik Evaluasi
+## Metrik Evaluasi
 
-\- \*\*Answer Quality\*\*: ROUGE, BLEU, BERTScore
+- \*\*Answer Quality\*\*: ROUGE, BLEU, BERTScore
 
-\- \*\*Citation Accuracy\*\*: Persentase sitasi dokumen yang benar per nilai K
+- \*\*Citation Accuracy\*\*: Persentase sitasi dokumen yang benar per nilai K
 
-\## How to Run
+## How to Run
 
 1. Buka masing-masing notebook di Google Colab
 2. Run cell secara berurutan dari atas ke bawah
 3. Run Data\_Retrieval.ipynb terlebih dahulu
----
-
-Atau mau gw bikinin file `.md`-nya langsung yang bisa kamu download?
