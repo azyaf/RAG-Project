@@ -4,7 +4,7 @@
 
 ## Deskripsi
 
-Proyek ini menganalisis fenomena \*\*saturasi performa\*\* dan \*\*halusinasi sitasi\*\* pada sistem Retrieval-Augmented Generation (RAG) dengan memvariasikan jumlah dokumen konteks (Top-K retrieval).
+Proyek ini menganalisis fenomena **saturasi performa** dan **halusinasi sitasi** pada sistem Retrieval-Augmented Generation (RAG) dengan memvariasikan jumlah dokumen konteks (Top-K retrieval).
 
 ## Anggota Tim
 
@@ -26,9 +26,9 @@ Proyek ini menganalisis fenomena \*\*saturasi performa\*\* dan \*\*halusinasi si
 
 ## Metrik Evaluasi
 
-- \*\*Answer Quality\*\*: ROUGE, BLEU, BERTScore
+- **Answer Quality**: ROUGE, BLEU, BERTScore
 
-- \*\*Citation Accuracy\*\*: Persentase sitasi dokumen yang benar per nilai K
+- **Citation Accuracy**: Persentase sitasi dokumen yang benar per nilai K
 
 ## How to Run
 
