@@ -10,9 +10,9 @@ Proyek ini menganalisis fenomena **saturasi performa** dan **halusinasi sitasi**
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| [Andi Fayza Maharani] | [23/516238/PA/22074] | Data & Retrieval |
-| [Nama Member 2] | [NIM] | Generation & Prompting |
-| [Nama Member 3] | [NIM] | Evaluation & Analysis |
+| Andi Fayza Maharani | [23/516238/PA/22074] | Data & Retrieval |
+| Rocky | [NIM] | Generation & Prompting |
+| Aza | [NIM] | Evaluation & Analysis |
 
 ## Komponen Sistem
 
