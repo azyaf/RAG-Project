@@ -30,8 +30,3 @@ Proyek ini menganalisis fenomena **saturasi performa** dan **halusinasi sitasi**
 
 - **Citation Accuracy**: Persentase sitasi dokumen yang benar per nilai K
 
-## How to Run
-
-1. Buka masing-masing notebook di Google Colab
-2. Run cell secara berurutan dari atas ke bawah
-3. Run Data\_Retrieval.ipynb terlebih dahulu
